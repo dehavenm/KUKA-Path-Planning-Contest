@@ -1,7 +1,7 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 # RoboND-KUKAChallenge
-Solution for the KUKA [robotic arm challenge](https://www.udacity.com/robot-learning-lab) in collaboration with KUKA and the Learning Lab at KIT
+My solution for the KUKA [robotic arm challenge](https://www.udacity.com/robot-learning-lab) in collaboration with KUKA and the Learning Lab at KIT, which took first place with a time of 36.24599838256836 seconds
 
 ## Goal and Basic Idea
 
