@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/install
+
+Name: rll_project_runner
+Description: Description of rll_project_runner
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/install/lib 
+Requires: 

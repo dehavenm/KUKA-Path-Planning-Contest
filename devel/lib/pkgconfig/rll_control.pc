@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/devel
+
+Name: rll_control
+Description: Description of rll_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/devel/lib 
+Requires: 

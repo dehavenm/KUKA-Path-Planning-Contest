@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rll_move</name>
+  <version>0.0.1</version>
+  <description>The Robot Learning Lab Movement Interface</description>
+
+  <maintainer email="wolfgang.wiedmeyer@kit.edu">Wolfgang Wiedmeyer</maintainer>
+
+  <license>GPLv3+</license>
+
+  <author email="wolfgang.wiedmeyer@kit.edu">Wolfgang Wiedmeyer</author>
+
+  <depend>rll_msgs</depend>
+  <exec_depend>message_runtime</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

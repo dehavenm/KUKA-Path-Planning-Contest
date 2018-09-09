@@ -1,0 +1,2 @@
+rll_planning_project:rll_sdk/gazebo_grasp_plugin:rll_sdk/iiwa7_ikfast_manipulator_plugin:rll_sdk/rll_control:rll_sdk/rll_description:rll_sdk/rll_gazebo:rll_sdk/rll_move:rll_sdk/rll_moveit_config:rll_sdk/rll_msgs:rll_sdk/rll_project_runner
+-DCATKIN_DEVEL_PREFIX=/home/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/workspace/catkin_ws/install -G Unix Makefiles

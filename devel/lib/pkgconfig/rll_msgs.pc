@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/devel
+
+Name: rll_msgs
+Description: Description of rll_msgs
+Version: 0.0.1
+Cflags: -I/home/workspace/catkin_ws/devel/include
+Libs: -L/home/workspace/catkin_ws/devel/lib 
+Requires: message_runtime

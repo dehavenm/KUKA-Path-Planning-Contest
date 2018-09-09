@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rll_description</name>
+  <version>0.1.0</version>
+  <description>The rll_description package</description>
+
+  <maintainer email="wolfgang.wiedmeyer@kit.edu">Wolfgang Wiedmeyer</maintainer>
+
+  <license>GPLv3+</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

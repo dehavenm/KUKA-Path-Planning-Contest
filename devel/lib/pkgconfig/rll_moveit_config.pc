@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/devel
+
+Name: rll_moveit_config
+Description: Description of rll_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/devel/lib 
+Requires: 

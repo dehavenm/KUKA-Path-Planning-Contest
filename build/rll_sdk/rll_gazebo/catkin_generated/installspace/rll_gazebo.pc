@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/install
+
+Name: rll_gazebo
+Description: Description of rll_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/install/lib 
+Requires: 

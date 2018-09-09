@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/install
+
+Name: iiwa7_ikfast_manipulator_plugin
+Description: Description of iiwa7_ikfast_manipulator_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/install/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions
