@@ -61,3 +61,7 @@ Path planning is based on A*, except the heuristic takes into account the unexpl
 Videos of path planner in action:
 
 [Practice Run #1](https://www.youtube.com/watch?v=sJKaQMxRF9k)
+
+[Practice Run #2](https://www.youtube.com/watch?v=7zpHlE4PI3w)
+
+[Test With Simulator on Local System](https://www.youtube.com/watch?v=hizgnEDYlCM)
