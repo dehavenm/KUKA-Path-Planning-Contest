@@ -65,3 +65,5 @@ Videos of path planner in action:
 [Practice Run #2](https://www.youtube.com/watch?v=7zpHlE4PI3w)
 
 [Test With Simulator on Local System](https://www.youtube.com/watch?v=hizgnEDYlCM)
+
+[Official Contest Run](https://www.youtube.com/watch?v=akvRFcQu1Xc)
