@@ -58,3 +58,6 @@ Orientation is specified exclusively with angles in multiples of 90 degrees (in 
 
 Path planning is based on A*, except the heuristic takes into account the unexplored directions relative to the goal - a node with an open direction orthogonal to the goal will get a big bonus to the heuristic score, one with an open direction towards the goal will get a smaller bonus, and one with all open directions leading away from the goal will get a penalty.
 
+Videos of path planner in action:
+
+[Practice Run #1](https://www.youtube.com/watch?v=sJKaQMxRF9k)
