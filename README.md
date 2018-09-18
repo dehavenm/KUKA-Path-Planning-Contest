@@ -24,6 +24,10 @@ The time, that the student's implementation needs from start to finish, will be 
 
 A rough version of the ```Move``` and ```CheckPath``` commands exists. A testing setup with a maze in the scene that can be used for initial prototyping.
 
+The official KIT repository can be found here:
+
+(https://github.com/KITrobotics/rll_path_planning_project)
+
 A workspace with the project can be set up with:
 ```
 mkdir ~/catkin_ws
