@@ -26,7 +26,7 @@ A rough version of the ```Move``` and ```CheckPath``` commands exists. A testing
 
 The official KIT repository can be found here:
 
-(https://github.com/KITrobotics/rll_path_planning_project)
+https://github.com/KITrobotics/rll_path_planning_project
 
 A workspace with the project can be set up with:
 ```
